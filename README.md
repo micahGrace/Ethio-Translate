@@ -1,4 +1,4 @@
-#Ethio Translate
+
 
 Ethio Translate is a machine learning web application which is intended to give an extensive service with a consideration of everyone that is in need of our help which is translating between Engllish to Tigrinya.
 
